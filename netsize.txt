@@ -1,0 +1,7 @@
+97
+80
+Luis Roa, Análisis de datos simple
+numero de filas
+numero de columnas
+97
+80

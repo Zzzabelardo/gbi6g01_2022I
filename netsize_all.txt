@@ -1,0 +1,119 @@
+Luis Roa, Análisis de datos con bucle for
+Filas de Saavedra2013/n1.txt son: 97.
+Columnas de Saavedra2013/n1.txt 80.
+Filas de Saavedra2013/n10.txt son: 14.
+Columnas de Saavedra2013/n10.txt 20.
+Filas de Saavedra2013/n11.txt son: 270.
+Columnas de Saavedra2013/n11.txt 91.
+Filas de Saavedra2013/n12.txt son: 7.
+Columnas de Saavedra2013/n12.txt 72.
+Filas de Saavedra2013/n13.txt son: 61.
+Columnas de Saavedra2013/n13.txt 17.
+Filas de Saavedra2013/n14.txt son: 35.
+Columnas de Saavedra2013/n14.txt 15.
+Filas de Saavedra2013/n15.txt son: 38.
+Columnas de Saavedra2013/n15.txt 11.
+Filas de Saavedra2013/n16.txt son: 118.
+Columnas de Saavedra2013/n16.txt 24.
+Filas de Saavedra2013/n17.txt son: 76.
+Columnas de Saavedra2013/n17.txt 31.
+Filas de Saavedra2013/n18.txt son: 13.
+Columnas de Saavedra2013/n18.txt 14.
+Filas de Saavedra2013/n19.txt son: 10.
+Columnas de Saavedra2013/n19.txt 16.
+Filas de Saavedra2013/n2.txt son: 62.
+Columnas de Saavedra2013/n2.txt 41.
+Filas de Saavedra2013/n20.txt son: 18.
+Columnas de Saavedra2013/n20.txt 7.
+Filas de Saavedra2013/n21.txt son: 19.
+Columnas de Saavedra2013/n21.txt 45.
+Filas de Saavedra2013/n22.txt son: 19.
+Columnas de Saavedra2013/n22.txt 36.
+Filas de Saavedra2013/n23.txt son: 179.
+Columnas de Saavedra2013/n23.txt 26.
+Filas de Saavedra2013/n24.txt son: 80.
+Columnas de Saavedra2013/n24.txt 28.
+Filas de Saavedra2013/n25.txt son: 17.
+Columnas de Saavedra2013/n25.txt 16.
+Filas de Saavedra2013/n26.txt son: 82.
+Columnas de Saavedra2013/n26.txt 40.
+Filas de Saavedra2013/n27.txt son: 27.
+Columnas de Saavedra2013/n27.txt 5.
+Filas de Saavedra2013/n28.txt son: 90.
+Columnas de Saavedra2013/n28.txt 19.
+Filas de Saavedra2013/n29.txt son: 61.
+Columnas de Saavedra2013/n29.txt 25.
+Filas de Saavedra2013/n3.txt son: 25.
+Columnas de Saavedra2013/n3.txt 36.
+Filas de Saavedra2013/n30.txt son: 8.
+Columnas de Saavedra2013/n30.txt 19.
+Filas de Saavedra2013/n31.txt son: 28.
+Columnas de Saavedra2013/n31.txt 25.
+Filas de Saavedra2013/n32.txt son: 45.
+Columnas de Saavedra2013/n32.txt 21.
+Filas de Saavedra2013/n33.txt son: 70.
+Columnas de Saavedra2013/n33.txt 20.
+Filas de Saavedra2013/n34.txt son: 79.
+Columnas de Saavedra2013/n34.txt 25.
+Filas de Saavedra2013/n35.txt son: 14.
+Columnas de Saavedra2013/n35.txt 8.
+Filas de Saavedra2013/n36.txt son: 40.
+Columnas de Saavedra2013/n36.txt 169.
+Filas de Saavedra2013/n37.txt son: 44.
+Columnas de Saavedra2013/n37.txt 13.
+Filas de Saavedra2013/n38.txt son: 51.
+Columnas de Saavedra2013/n38.txt 99.
+Filas de Saavedra2013/n39.txt son: 33.
+Columnas de Saavedra2013/n39.txt 25.
+Filas de Saavedra2013/n4.txt son: 101.
+Columnas de Saavedra2013/n4.txt 11.
+Filas de Saavedra2013/n40.txt son: 28.
+Columnas de Saavedra2013/n40.txt 18.
+Filas de Saavedra2013/n41.txt son: 12.
+Columnas de Saavedra2013/n41.txt 10.
+Filas de Saavedra2013/n42.txt son: 42.
+Columnas de Saavedra2013/n42.txt 8.
+Filas de Saavedra2013/n43.txt son: 55.
+Columnas de Saavedra2013/n43.txt 29.
+Filas de Saavedra2013/n44.txt son: 56.
+Columnas de Saavedra2013/n44.txt 9.
+Filas de Saavedra2013/n45.txt son: 36.
+Columnas de Saavedra2013/n45.txt 61.
+Filas de Saavedra2013/n46.txt son: 58.
+Columnas de Saavedra2013/n46.txt 17.
+Filas de Saavedra2013/n47.txt son: 139.
+Columnas de Saavedra2013/n47.txt 41.
+Filas de Saavedra2013/n48.txt son: 118.
+Columnas de Saavedra2013/n48.txt 49.
+Filas de Saavedra2013/n49.txt son: 47.
+Columnas de Saavedra2013/n49.txt 23.
+Filas de Saavedra2013/n5.txt son: 21.
+Columnas de Saavedra2013/n5.txt 7.
+Filas de Saavedra2013/n50.txt son: 45.
+Columnas de Saavedra2013/n50.txt 46.
+Filas de Saavedra2013/n51.txt son: 8.
+Columnas de Saavedra2013/n51.txt 15.
+Filas de Saavedra2013/n52.txt son: 33.
+Columnas de Saavedra2013/n52.txt 7.
+Filas de Saavedra2013/n53.txt son: 34.
+Columnas de Saavedra2013/n53.txt 13.
+Filas de Saavedra2013/n54.txt son: 126.
+Columnas de Saavedra2013/n54.txt 25.
+Filas de Saavedra2013/n55.txt son: 14.
+Columnas de Saavedra2013/n55.txt 50.
+Filas de Saavedra2013/n56.txt son: 110.
+Columnas de Saavedra2013/n56.txt 207.
+Filas de Saavedra2013/n57.txt son: 14.
+Columnas de Saavedra2013/n57.txt 11.
+Filas de Saavedra2013/n58.txt son: 678.
+Columnas de Saavedra2013/n58.txt 90.
+Filas de Saavedra2013/n59.txt son: 663.
+Columnas de Saavedra2013/n59.txt 130.
+Filas de Saavedra2013/n6.txt son: 9.
+Columnas de Saavedra2013/n6.txt 31.
+Filas de Saavedra2013/n7.txt son: 16.
+Columnas de Saavedra2013/n7.txt 25.
+Filas de Saavedra2013/n8.txt son: 19.
+Columnas de Saavedra2013/n8.txt 33.
+Filas de Saavedra2013/n9.txt son: 12.
+Columnas de Saavedra2013/n9.txt 22.
